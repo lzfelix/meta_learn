@@ -1,4 +1,4 @@
-# Blue Ribbon
+# Meta Learn
 
 Implementing ML algorithms that you usually find on Sklearn, so I can learn about
 them.
